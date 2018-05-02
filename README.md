@@ -6,6 +6,10 @@ avoid obstacles in different shapes. You need to be very agile and
 precise to see the position of the incoming obstacle and quickly shift 
 your position away to avoid it. Stay focused and break your record!
 
+## Starting the Game
+node index.js
+goto localhost:3000
+
 ## Key Controls
 
 - **W**/**S** : Rotate Block
